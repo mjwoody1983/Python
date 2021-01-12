@@ -1,4 +1,5 @@
 # Python
-Python scripts - working and examples
+Python scripts - Working examples, useful code snippets.
+Betting Model  - Initial take ona football betting poisson model.  
 
-Starting point for Python projects, mainly based around football data.
+
